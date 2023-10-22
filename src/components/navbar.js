@@ -29,7 +29,7 @@ const NavbarComponent = (props) => {
               <Nav.Link href="#link">
                 <Link className="navLinker" to="/signin">
                   {" "}
-                  Signin{" "}
+                  Sign-in{" "}
                 </Link>
               </Nav.Link>
 
