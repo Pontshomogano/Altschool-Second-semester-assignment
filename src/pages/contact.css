@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+
+@font-face {
+  font-family: abril_fatface;
+  src: url("C:./public/abril_fatface");
+}
+
+.main {
+}
+
+.mainContainer {
+  padding-right: min(50px);
+}
+
+.abril_fatface {
+  font-family: abril_fatface;
+  font-size: 3.75rem;
+  font-weight: bolder;
+  margin: 0 auto;
+}
+
+.contacts {
+  border-radius: 5px;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15), 0 5px 10px rgba(0, 0, 0, 0.05);
+  left: 50%;
+  padding: 30px;
+  /* position: fixed; */
+  /* text-align: left; */
+  /* top: 50%; */
+  /* -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
+  /* width: 30%; */
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+h3 {
+  font-size: 1rem;
+}

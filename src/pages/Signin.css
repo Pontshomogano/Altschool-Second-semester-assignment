@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  background: #fff1e6;
+}
+
+@font-face {
+  font-family: abril_fatface;
+  src: url("C:./public/abril_fatface");
+}
+
+.abril_fatface {
+  font-family: abril_fatface;
+  font-size: 3.75rem;
+  font-weight: bolder;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+.btn-success {
+  margin-top: 10px;
+}
